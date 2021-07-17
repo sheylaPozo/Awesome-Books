@@ -25,8 +25,7 @@ Additional description about the project and its features.
 ## Live Demo
 ---
 
-[Live Demo Link](https://munsa1.github.io/Awesome-Books/)
-
+[Live Demo Link](https://sheylapozo.github.io/Awesome-Books/)
 
 ## Getting Started
 ---
